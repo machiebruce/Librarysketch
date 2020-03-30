@@ -3,7 +3,7 @@
 ![Preview](https://github.com/faridsabitov/Sketch-Interactions/raw/master/images/LibraryPreview.gif)
 
 <strong>Copy/paste the URLs below in any browser address bar to install</strong></p>
-<code>sketch://add-library?url=https://raw.githubusercontent.com/faridsabitov/Sketch-Interactions/master/rss.xml</code></li>
+<code>sketch://add-library?url=https://raw.githubusercontent.com/machiebruce/Librarysketch/blob/master/rss.xml</code></li>
   
 
 Table of contents:
