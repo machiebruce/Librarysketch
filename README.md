@@ -1,5 +1,4 @@
-#  Sketch-Interactions
-
+#  Sketch-library
 ![Preview](https://github.com/faridsabitov/Sketch-Interactions/raw/master/images/LibraryPreview.gif)
 
 <strong>Copy/paste the URLs below in any browser address bar to install</strong></p>
